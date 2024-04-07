@@ -31,4 +31,4 @@ Please see `doc/report.pdf` and `doc/slides.pdf` for results. A YouTube video di
 
 ### Footnote
 
-This research makes use of a dataset that has not been included due to size limitations. The dataset can be accessed <a href=" https://www.kaggle.com/datasets/rajeevw/ufcdata">here</a>. All credits go to their respective owners.
+This research makes use of a dataset that has not been included due to size limitations. The dataset can be accessed <a href="https://www.kaggle.com/datasets/rajeevw/ufcdata">here</a>. All credits go to their respective owners.
