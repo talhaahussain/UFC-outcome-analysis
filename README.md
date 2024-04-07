@@ -28,3 +28,7 @@ Results are printed to `stdout`, and can be redirected to a file if you wish.
 ### Results
 
 Please see `doc/report.pdf` and `doc/slides.pdf` for results. A YouTube video discussing the results is also available; please click <a href="https://youtu.be/tM9piZdOQkc">here</a> for the link. 
+
+### Footnote
+
+This research makes use of a dataset that has not been included due to size limitations. The dataset can be accessed <a href=" https://www.kaggle.com/datasets/rajeevw/ufcdata">here</a>. All credits go to their respective owners.
