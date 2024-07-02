@@ -7,7 +7,11 @@ Please see `specification.md` for specification. (Unfortunately, original specif
 
 ### Prerequisites
 
-`pandas`, `numpy` and `sklearn` are required to run `src/physical-fp.py` and `src/historical-fp.py`. These can be installed with `pip install`.
+`pandas`, `numpy` and `sklearn` are required to run `src/physical-fp.py` and `src/historical-fp.py`. These can be installed with:
+
+```bash
+pip install -r requirements.txt
+```
 
 ### Usage
 
